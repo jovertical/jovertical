@@ -10,7 +10,7 @@
 - PHP
 - [Laravel](https://laravel.com/)
 - JavaScript
-- Typescript
+- [Typescript](https://www.typescriptlang.org/)
 - [Node.js](https://nodejs.org/)
 - [React.js](https://react.dev/)
 - [React Native](https://reactnative.dev/)
