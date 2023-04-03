@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jovertical/jovertical/master/art/code.png" width="400" alt="Code" />
+  <img src="https://raw.githubusercontent.com/jovertical/jovertical/master/art/work-station.jpeg" width="400" alt="My Workstation" />
   <p align="center">
     Hi, I'm Jovert, a software engineer based in <strong>Manila</strong>, <strong>Philippines</strong>. I'm passionate about building web applications and learning new technologies. I love to travel as well, exploring the beauty of nature and experiencing different cultures.
   </p>
